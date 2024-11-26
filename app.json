@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "SipalayJourney",
+    "slug": "SipalayJourney",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/logo/sipalayLogo.jpg",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.sipalayjourney.app",
+      "permissions": []
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "2a228d01-8876-4b6a-ada1-89d9e038440e"
+      }
+    }
+  }
+}

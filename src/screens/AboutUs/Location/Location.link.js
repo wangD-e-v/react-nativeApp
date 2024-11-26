@@ -1,0 +1,2 @@
+const URL = "https://www.google.com/maps/embed?pb=!1m19!1m8!1m3!1d15727.86202987642!2d122.432408!3d9.768986!3m2!1i1024!2i768!4f13.1!4m8!3e9!4m0!4m5!1s0x33ac4df6d8fe988f%3A0xafd1d634de32ce16!2sQC9J%2BHXV%20New%20Sipalay%20Government%20Center%2C%20Negros%20South%20Road%2C%20Sipalay%2C%20Negros%20Occidental%2C%20Philippines!3m2!1d9.768988799999999!2d122.43247!5e0!3m2!1sen!2sph!4v1732536946564!5m2!1sen!2sph";
+export default URL;
